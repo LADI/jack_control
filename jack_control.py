@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
-
+# SPDX-License-Identifier: GPL-2.0-or-later
+# SPDX-FileCopyrightText: Copyright © 2007-2023 Nedko Arnaudov
+# SPDX-FileCopyrightText: Copyright © 2008 Grame
+# SPDX-FileCopyrightText: Copyright © 2013 Florian Paul Schmidt
+# SPDX-FileCopyrightText: Copyright © 2018 Charalampos Stratakis (RedHat)
+# SPDX-FileCopyrightText: Copyright © 2020 Joshua Rubin
+# SPDX-FileCopyrightText: Copyright © 2020 jneen.net
+# SPDX-FileCopyrightText: Copyright © 2021 Peter Sutton
+# SPDX-FileCopyrightText: Copyright © 2022 Nikita Zlobin
+# SPDX-FileCopyrightText: Copyright © 2022 David Runge
 
 from __future__ import print_function
 import dbus

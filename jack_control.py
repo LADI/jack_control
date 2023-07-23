@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-2.0-or-later
 # SPDX-FileCopyrightText: Copyright © 2007-2023 Nedko Arnaudov
-# SPDX-FileCopyrightText: Copyright © 2008 Grame
+# SPDX-FileCopyrightText: Copyright © 2008-2009 Grame
 # SPDX-FileCopyrightText: Copyright © 2013 Florian Paul Schmidt
 # SPDX-FileCopyrightText: Copyright © 2018 Charalampos Stratakis (RedHat)
 # SPDX-FileCopyrightText: Copyright © 2020 Joshua Rubin

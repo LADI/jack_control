@@ -1,0 +1,23 @@
+:notitle:
+:keywords: jack, jack-audio-connection-kit, jackdbus, dbus, d-bus, python
+
+= jack_control
+
+"jack_control" is small program for exposing https://jackdbus.ladish.org/[jackdbus] functionality at command-line.
+
+Chained execution of several commands is possible. For example "jack
+control ds alsa dps midi-driver raw eps realtime on eps
+relatime-priority 70 start" selects ALSA driver, enables JACK MIDI raw
+backend, enables realtime mode, sets realtime priority to 70 and
+starts JACK server.
+
+ * https://github.com/LADI/jack_control[jack_control repo at GitHub]
+ * https://gitea.ladish.org/LADI/jack_control[jack_control repo at
+   LADI project Gitea]
+
+See also:
+
+ * https://jackdbus.ladish.org/[jackdbus] - D-Bus endpoint for JACK server
+ * https://github.com/LADI/laditools[laditools] - GUI apps with
+   functionality similar to jack_control
+ * https://ladish.org/[ladish] - Session Handler that can save JACK settings in a named configuration (Studio) and reload them later

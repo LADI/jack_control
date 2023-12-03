@@ -100,7 +100,7 @@ def print_help():
         "    help                       - print this help text\n"
         "    status                     - check whether jack server is started, "
         "return value is 0 if running and 1 otherwise\n"
-        "    status2                    - check whether jack server is started, continue\n"
+        "    status2                    - show whether jack server is started, continue\n"
         "    start                      - start jack server if not currently started\n"
         "    stop                       - stop jack server if currently started\n"
         "    sm                         - switch master to currently selected driver\n"
